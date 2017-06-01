@@ -1,2 +1,2 @@
 # Minions
-Use css make a ordinary minions animation
+Use CSS to make an ordinary animation 
